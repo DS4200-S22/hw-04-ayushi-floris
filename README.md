@@ -1,7 +1,7 @@
 # hw-04
 hw-04 - Event Handling 
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: https://github.com/DS4200-S22/hw-04-ayushi-floris.git
 
 ## Purpose
 
