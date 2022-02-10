@@ -9,9 +9,11 @@ function changeVisibility() {
 }
 
 function showBorder() {
+    document.getElementById('c2').style.stroke = "black";
     document.getElementById('c2').style.strokeWidth = 5;
 }
 
 function hideBorder() {
+    document.getElementById('c2').style.stroke = null;
     document.getElementById('c2').style.strokeWidth = 0;
 }
