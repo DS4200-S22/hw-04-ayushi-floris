@@ -23,17 +23,17 @@ svg {
 }
 
 #c1 {
-    fill: red;
+    fill: #9bc6df;
     stroke: black;
     stroke-width: 5px;
 }
 
 #c2 {
-    fill: green;
+    fill: #a8da7c;
 }
 
 #c3 {
-    fill:blue;
+    fill: #c3a8d1;
     stroke: black;
     stroke-width: 5px;
     opacity: 100%;
