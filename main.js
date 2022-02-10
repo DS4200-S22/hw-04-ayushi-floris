@@ -10,7 +10,7 @@ function changeVisibility() {
 
 function showBorder() {
     document.getElementById('c2').style.stroke = "black";
-    document.getElementById('c2').style.strokeWidth = 5;
+    document.getElementById('c2').style.strokeWidth = "5px";
 }
 
 function hideBorder() {

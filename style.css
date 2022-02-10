@@ -12,14 +12,14 @@ body {
 }
 
 svg {
-    width: 12vw;
-    height: 12vw;
+    width: 250px;
+    height: 250px;
 }
 
 .circle {
-    r: 5vw;
-    cx: 6vw;
-    cy: 6vw;
+    r: 100px;
+    cx: 125px;
+    cy: 125px;
 }
 
 #c1 {
