@@ -5,3 +5,35 @@ body {
 .centered {
     text-align: center;
 }
+
+.shape-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+svg {
+    width: 12vw;
+    height: 12vw;
+}
+
+.circle {
+    r: 5vw;
+    cx: 6vw;
+    cy: 6vw;
+}
+
+#c1 {
+    fill: red;
+    stroke: black;
+    stroke-width: 5px;
+}
+
+#c2 {
+    fill: green;
+}
+
+#c3 {
+    fill:blue;
+    stroke: black;
+    stroke-width: 5px;
+}
