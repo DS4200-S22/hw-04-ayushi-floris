@@ -7,3 +7,11 @@ function changeVisibility() {
         document.getElementById('c3').style.opacity = "0%";
     }
 }
+
+function showBorder() {
+    document.getElementById('c2').style.strokeWidth = 5;
+}
+
+function hideBorder() {
+    document.getElementById('c2').style.strokeWidth = 0;
+}
