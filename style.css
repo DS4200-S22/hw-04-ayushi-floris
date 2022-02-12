@@ -16,6 +16,10 @@ svg {
     height: 250px;
 }
 
+text {
+    transform: translate(125px, 125px);
+}
+
 .circle {
     r: 100px;
     cx: 125px;

@@ -1,3 +1,12 @@
+let countClick = 0
+
+function updateClicks() {
+    countClick++;
+    let countText = document.getElementById("count_text");
+    countText.innerHTML = countClick.toString();
+    console.log(countClick)
+}
+
 function changeVisibility() {
     const opacity = parseInt(document.getElementById('c3').style.opacity);
 
