@@ -2,9 +2,8 @@ let countClick = 0
 
 function updateClicks() {
     countClick++;
-    let countText = document.getElementById("count_text");
+    let countText = document.getElementById("count-text");
     countText.innerHTML = countClick.toString();
-    console.log(countClick)
 }
 
 function changeVisibility() {

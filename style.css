@@ -16,10 +16,6 @@ svg {
     height: 250px;
 }
 
-text {
-    transform: translate(125px, 125px);
-}
-
 .circle {
     r: 100px;
     cx: 125px;
@@ -41,4 +37,9 @@ text {
     stroke: black;
     stroke-width: 5px;
     opacity: 100%;
+}
+
+#count-text {
+    transform: translate(125px, 125px);
+    text-anchor: middle;
 }
